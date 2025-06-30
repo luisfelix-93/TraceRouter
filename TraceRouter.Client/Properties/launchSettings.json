@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TraceRouter.Client": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
